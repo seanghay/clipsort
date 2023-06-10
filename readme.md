@@ -9,7 +9,9 @@ Create a new Anaconda environment
 ```shell
 conda create -n clipsort python==3.8
 conda activate clipsort
+pip install -r requirements.txt
 ```
+
 
 Run the inference
 
