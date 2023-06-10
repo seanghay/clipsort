@@ -1,4 +1,4 @@
-## `clipsort`
+## `clipsort` - Organize image files with zero-shot classification
 
 Categorize photos into it corresponding provided label with [openai/clip-vit-base-patch16](https://huggingface.co/openai/clip-vit-base-patch16).
 
