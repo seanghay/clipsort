@@ -14,9 +14,7 @@ conda activate clipsort
 Run the inference
 
 ```shell
-python clipsort.py data/*.jpg \
-  --output ./output/ \
-  --labels food menu logo
+python clipsort.py data/*.jpg --output ./output/ --labels food menu logo
 ```
 
 Result
